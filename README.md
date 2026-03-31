@@ -16,17 +16,30 @@ This project was completed as part of the Digital Literacy course. The objective
 ---
 
 ## 📂 Repository Structure
-
-digital-literacy-project/  
-│── README.md  
-│  
-├── report/  
+```text
+digital-literacy/
+├── report/
 ├── task-1-presentation/  
+    ├── Digital Literacy Infographic.png
 ├── task-2-portfolio/  
-├── task-3-platforms/  
-├── task-4-email-etiquette/  
-└── task-5-cybercrime/  
-
+    ├── GitHub.png
+    ├── Kaggle.png
+    ├── Linkedin-1.png
+    ├── Linkedin-2.png
+├── task-3-platforms/ 
+    ├── Google Form-1.png
+    ├── Google Form-2.png
+    ├── Google Form-3.png
+    ├── HackerRank.png
+├── task-4-email-etiquette/ 
+    ├── Email1.txt
+    ├── Email2.txt
+    ├── Social_Media _Checklist.md
+├── task-5-cybercrime/ 
+    ├── casestudy.md
+    ├── prevention-checklist.md
+└── README.md                     
+```
 ---
 
 ## ✅ Tasks Completed
