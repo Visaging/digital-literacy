@@ -1,12 +1,12 @@
 # 🌐 Digital Literacy Project
 
 ## 👤 Student Details
-**Name:** Akshat Agrawal 
-**Registration Number:** 25BCE10418
-**Branch:** Computer Science Engineering  
-**Year:** 1st Year  
-**Course Code:** CSE0001  
-**University:** VIT Bhopal University  
+**Name:** Akshat Agrawal    
+**Registration Number:** 25BCE10418    
+**Branch:** Computer Science Engineering    
+**Year:** 1st Year    
+**Course Code:** CSE0001    
+**University:** VIT Bhopal University    
 
 ---
 
@@ -19,6 +19,7 @@ This project was completed as part of the Digital Literacy course. The objective
 ```text
 digital-literacy/
 ├── report/
+    ├── Digital Literacy Project Report.pdf
 ├── task-1-presentation/  
     ├── Digital Literacy Infographic.png
 ├── task-2-portfolio/  
